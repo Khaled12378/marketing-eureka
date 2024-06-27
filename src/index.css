@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.orange{
+    /* for bg */
+    background-color: #e2a52a;
+}
+.text-orange{
+    color: #e2a52a;
+}
